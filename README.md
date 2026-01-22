@@ -14,8 +14,7 @@ Modern responsive website for service companies.
 https://oumayma-achouaf.github.io/service-company-site/
 
 ## 📂 GitHub Repository
-https://github.com/oumayma-achouaf/service-company-site
-
+https://github.com/oumayma-achouaf/service-company-site.git
 ## 🛠️ Built With
 - HTML5
 - CSS3
